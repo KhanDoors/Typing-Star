@@ -25,31 +25,12 @@ const message = document.querySelector('#message');
 const seconds = document.querySelector('#seconds');
 
 const words = [
-  'hat',
-  'river',
-  'lucky',
-  'statue',
-  'generate',
-  'stubborn',
-  'cocktail',
-  'runaway',
-  'joke',
-  'developer',
-  'establishment',
-  'hero',
-  'javascript',
-  'nutrition',
-  'revolver',
-  'echo',
-  'siblings',
-  'investigate',
-  'horrendous',
-  'symptom',
-  'laughter',
-  'magic',
-  'master',
-  'space',
-  'definition'
+  'hat', 'river', 'lucky', 'statue', 'generate', 'stubborn', 'cocktail', 'runaway', 'joke', 'developer', 'establishment', 'hero', 'javascript',
+  'nutrition', 'revolver', 'echo', 'siblings', 'investigate', 'horrendous', 'symptom', 'laughter', 'magic', 'master', 'space', 'definition', "dream","easy","bank","noun","down","occasionally", "plant","surrounded","teacher","bee","leaving","nose", "friend","back","pressure","ready","itself","still",
+  "difference","subject","card","frame","truth","street", "member","may","leather","cream","press","yet", "teach","hit","original","himself","pencil","nose",
+  "previous","pole","cattle","struck","yet","hold","continent","glass","roof","motion","weigh","clear", "pain","tip","beauty","movie","telephone","definition",
+  "please","improve","entirely","queen","begun","evidence", "road","than","trip","hurried","bottle","travel", "steam","carbon","universe","hurried","stopped","headed",
+  "choice","white","spent","greater","mean","fought", "wash","property","ear","fur","engine","circle"
 ];
 
 // Initialize Game
